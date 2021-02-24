@@ -1,0 +1,32 @@
+{
+  "name": "ProductManagerBackend",
+  "version": "0.0.1",
+  "dependencies": {
+    "@tronscan/client": "^0.2.67",
+    "bignumber": "^1.1.0",
+    "body-parser": "^1.18.3",
+    "crypto-js": "^4.0.0",
+    "ethereumjs-tx": "^2.1.2",
+    "ethers": "^5.0.19",
+    "express": "^4.16.3",
+    "express-async-errors": "^3.0.0",
+    "keccak": "^3.0.0",
+    "keccak256": "^1.0.2",
+    "logger": "0.0.1",
+    "moment": "^2.26.0",
+    "morgan": "^1.9.0",
+    "mysql": "^2.18.1",
+    "request": "^2.88.0",
+    "rlp": "^2.2.5",
+    "secp256k1": "^3.2.5",
+    "tronweb": "^3.1.0",
+    "type": "module",
+    "web3": "^1.3.0",
+    "xd-synchttp": "^0.4.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1"
+  }
+}
